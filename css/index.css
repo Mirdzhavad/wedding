@@ -1,0 +1,163 @@
+* {
+  background-color: #070717;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+.pages {
+  margin-top: 60px;
+  margin-left: 60px;
+  border-radius: 50%;
+  border: 3px solid #ffc107;
+}
+.about {
+  border: 3px solid #070717;
+  padding: 4px;
+  margin: 5px 10px;
+  color: white;
+  position: absolute;
+  left: 400px;
+  top: 30px;
+  font-size: 24px;
+  padding: 4px 43px;
+  background-color: #420092;
+}
+.education {
+  border: 3px solid #070717;
+  padding: 4px;
+  margin: 5px 10px;
+  color: white;
+  position: absolute;
+  left: 600px;
+  top: 30px;
+  font-size: 24px;
+  padding: 4px 16px;
+  background-color: #420092;
+}
+.hobby {
+  border: 3px solid #070717;
+  padding: 4px;
+  margin: 5px 10px;
+  color: white;
+  position: absolute;
+  left: 800px;
+  top: 30px;
+  font-size: 24px;
+  padding: 4px 55px;
+  background-color: #420092;
+}
+.contacts {
+  border: 3px solid #070717;
+  padding: 4px;
+  margin: 5px 10px;
+  color: white;
+  position: absolute;
+  left: 1000px;
+  top: 30px;
+  font-size: 24px;
+  padding: 4px 13px;
+  background-color: #420092;
+}
+
+.aboutme {
+  color: #ffffff;
+  margin-top: 100px;
+  font-size: 70px;
+  margin-left: 570px;
+}
+.hello {
+  color: #747474;
+  font-size: 60px;
+  margin-left: 200px;
+  width: 1100px;
+}
+.fio {
+  font-size: 100px;
+  margin-left: 100px;
+  color: rgb(255, 255, 255);
+  margin-bottom: 20px;
+}
+.pagestable {
+  width: 30%;
+  height: 30%;
+  color: rgb(255, 255, 255);
+}
+.adress {
+  font-size: 50px;
+  margin-left: 210px;
+  color: rgb(255, 255, 255);
+}
+.tel {
+  font-size: 35px;
+  margin-left: 210px;
+  color: rgb(255, 255, 255);
+}
+.email {
+  font-size: 40px;
+  margin-left: 210px;
+  color: rgb(255, 255, 255);
+}
+.tg {
+  font-size: 35px;
+  margin-left: 210px;
+  color: rgb(255, 255, 255);
+}
+.educatuionHeading {
+  color: #ffffff;
+  margin-top: 100px;
+  font-size: 70px;
+  margin-left: 570px;
+}
+.MsuEducation {
+  color: #747474;
+  font-size: 60px;
+  margin-left: 200px;
+  width: 1100px;
+}
+.HeadingHobby {
+  color: #ffffff;
+  margin-top: 100px;
+  font-size: 70px;
+  margin-left: 570px;
+}
+.hobby2 {
+  color: #747474;
+  font-size: 60px;
+  margin-left: 200px;
+  width: 1100px;
+}
+.item1 {
+  margin-left: 150px;
+  border-radius: 50%;
+  border: 3px solid #ffc107;
+}
+.item2 {
+  margin-left: 500px;
+  margin-top: -370px;
+  border-radius: 50%;
+  border: 3px solid #ffc107;
+}
+.item3 {
+  margin-left: 850px;
+  margin-top: -370px;
+  border-radius: 50%;
+  border: 3px solid #ffc107;
+  margin-bottom: 100px;
+}
+.header__logo {
+  width: 70px;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+.head {
+  width: 100%;
+  background-color: #ffc107;
+  height: 90px;
+}
+#footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  padding: 10px;
+  background: #42009232;
+  color: rgba(255, 255, 255, 0.369);
+  width: 100%;
+}
